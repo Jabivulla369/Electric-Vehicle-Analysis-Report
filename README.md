@@ -68,6 +68,18 @@ SOFTWARE USED:-
  2. POWER BI: Dec 2023 Version
 
 
+Project Writings:- 
+
+1. Electric Vehicle Analysis Report | Excel, Power BI
+
+• Comprehensive Analysis: Explored the growth trajectory of electric vehicles globally, uncovering patterns, and identifying pivotal turning points.
+• Geographic Insights: Mapped the distribution of electric vehicle adoption across different regions, shedding light on emerging hotspots and market leaders.
+• Year-on-Year Trends: Examined yearly variations in electric vehicle populations, pinpointing noteworthy milestones and trends driving the industry forward.
+• Methodology: Employed advanced data visualization techniques using Power BI to create intuitive dashboards and interactive reports, making the complex data accessible and actionable.
+• Impact on Sustainability: By understanding the trends in electric vehicle adoption, we gain valuable insights into the global shift towards sustainable transportation, contributing to a greener and cleaner future.
+
+
+
 
 ![EVR](https://github.com/Jabivulla369/Electric-Vehicle-Analysis-Report/assets/122985980/d0948ffc-0c3b-44f3-a5e8-17f34fa55cfc)
 
