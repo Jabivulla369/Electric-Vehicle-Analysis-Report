@@ -66,3 +66,8 @@ SOFTWARE USED:-
 
  1. MS OFFICE/ EXCEL: VERSION 2021
  2. POWER BI: Dec 2023 Version
+
+
+
+
+https://github.com/Jabivulla369/Electric-Vehicle-Analysis-Report/blob/9fc7bd9bea72d28f3bd5fa8c843727cbad3ad3de/EVR.png
