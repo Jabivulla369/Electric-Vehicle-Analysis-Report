@@ -69,5 +69,5 @@ SOFTWARE USED:-
 
 
 
+![EVR](https://github.com/Jabivulla369/Electric-Vehicle-Analysis-Report/assets/122985980/d0948ffc-0c3b-44f3-a5e8-17f34fa55cfc)
 
-https://github.com/Jabivulla369/Electric-Vehicle-Analysis-Report/blob/9fc7bd9bea72d28f3bd5fa8c843727cbad3ad3de/EVR.png
